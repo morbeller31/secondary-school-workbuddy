@@ -1,0 +1,37 @@
+# Private learner records
+private/
+profiles/
+student-data/
+knowledge/
+
+# Documents and course materials
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.zip
+
+# Images, audio, and video
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.mov
+*.mp4
+*.mp3
+
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+
+# Operating system and editor files
+.DS_Store
+.idea/
+.vscode/
