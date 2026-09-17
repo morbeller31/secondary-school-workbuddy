@@ -4,6 +4,8 @@ profiles/
 student-data/
 knowledge/
 parent-reports/
+error-books/
+resources/
 
 # Documents and course materials
 *.pdf

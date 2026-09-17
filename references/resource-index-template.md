@@ -1,14 +1,23 @@
-# Private Curriculum and Resource Index Template
+# Private Curriculum and Resource Map Template
 
-Keep the completed version private when it contains school, teacher, account, or learner information.
+Store the completed version at `resources/Learner_Resource_Map.md`. Keep it outside the skill package and public repository when it contains school, teacher, account, or learner information.
 
-| Subject | Course or book | Edition | Current unit | Student resource | Answer resource | Teacher instruction priority |
+| Subject | Resource type | Title or filename | Edition | Current unit or pages | Answer resource | Notes |
 |---|---|---|---|---|---|---|
-| English |  |  |  |  |  |  |
-| Mathematics |  |  |  |  |  |  |
-| Science |  |  |  |  |  |  |
-| Humanities |  |  |  |  |  |  |
-| Languages |  |  |  |  |  |  |
+| English | Student Book / Workbook / Answers / Worksheet |  |  |  |  |  |
+| Mathematics | Student Book / Workbook / Answers / Worksheet |  |  |  |  |  |
+| Science | Student Book / Workbook / Answers / Worksheet |  |  |  |  |  |
+| Humanities | Student Book / Workbook / Answers / Worksheet |  |  |  |  |  |
+| Languages | Student Book / Workbook / Answers / Worksheet |  |  |  |  |  |
+
+## Routing order
+
+1. Parent or teacher's explicit subject or resource instruction.
+2. Current task or project name.
+3. Filename.
+4. Internal document title.
+
+Do not infer the subject from the topic alone. Record separately identified worksheets as separate resources.
 
 ## Resource rules
 

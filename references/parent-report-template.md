@@ -1,12 +1,14 @@
-# Parent Report Template
+# Parent Learning Log Template
 
-> Parent or caregiver file. Do not display this report body in the learner's academic conversation.
+> Continuous private file: `parent-reports/Learner_Parent_Learning_Log.md`. Append each new session and never replace earlier entries. Do not display this file body in the learner's academic conversation.
+
+## YYYY-MM-DD HH:MM | Subject | Task
 
 - Date:
 - Subject:
 - Resource, page, and exercise:
 - Material reviewed:
-- Image or handwriting limitations:
+- Items that could not be read reliably and were not judged:
 
 ## Completion
 
@@ -33,4 +35,4 @@ Classes: A correct; B reasoning is sound but expression, notation, or units need
 - Most useful current observation:
 - Practical next action:
 
-Record only observable performance from the current task. Do not treat an E classification, unclear handwriting, or image-recognition uncertainty as a learning deficit.
+Record only observable performance from the current task. Do not treat an E classification, unclear handwriting, or image-recognition uncertainty as a learning deficit. Append one dated heading at the end of the file after each substantial homework session.

@@ -2,6 +2,8 @@
 
 Generate this review once per week or when a parent, caregiver, or teacher explicitly requests it.
 
+Store it at `parent-reports/weekly/YYYY-Www_Weekly_Report.md`.
+
 ## Academic progress
 
 - Subjects and units:
@@ -32,6 +34,12 @@ Generate this review once per week or when a parent, caregiver, or teacher expli
 ## Well-being and participation
 
 Include only observed or reported information relevant to learning, school participation, communication, emotional recovery, confidence, self-advocacy, or help-seeking.
+
+## Error-book review
+
+- Confirmed error patterns added this week:
+- Retrieval items attempted and results:
+- Concepts to revisit next week:
 
 ## Next week's targets
 

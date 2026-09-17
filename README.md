@@ -13,9 +13,17 @@ Within daily academic support, it uses three modes:
 - **Checking Mode:** WorkBuddy reviews completed work, classifies issues, and skips explanations for correct responses;
 - **Teaching Mode:** WorkBuddy teaches only after current evidence identifies a real barrier.
 
-It can review clear images of completed handwritten work, distinguishes reasoning from expression, uses answer keys only after the learner attempts a question, and treats clinical assessment and medical care as professional responsibilities.
+It can review clear images of completed handwritten work, distinguishes reasoning from expression, uses answer keys only after the learner attempts a question, and treats clinical assessment and medical care as professional responsibilities. If work cannot be read reliably, it requests a clearer image or typed answer instead of guessing.
 
-Academic uploads default to the learner-facing conversation, even when a parent uploads them. Student Mode presents one next step in the learner's primary learning language. Detailed classifications and parent observations are written to a separate private Markdown report under `parent-reports/`; that directory is excluded from Git.
+Academic uploads default to the learner-facing conversation, even when a parent uploads them. Backstage parent instructions can be separated by language while Student Mode presents one next step in the learner's primary learning language. The skill avoids answer-option prompts when they encourage guessing and directs the learner back to nearby rules, examples, and evidence.
+
+Private records use three layers:
+
+- one continuously appended parent learning log;
+- one dated weekly report;
+- one error book per subject containing only confirmed, readable errors and open-response retrieval questions.
+
+Private records are stored under `parent-reports/`, `error-books/`, and `resources/`; these directories are excluded from Git.
 
 ## Privacy-first design
 
@@ -45,7 +53,9 @@ Upload current school materials separately as private knowledge files. Do not co
 - recent academic report;
 - current timetable and teacher instructions;
 - legally obtained course materials;
-- private learner and curriculum profiles created from the templates.
+- private learner and curriculum profiles created from the templates;
+- a resource map for routing Student Books, Workbooks, Answers, and Worksheets;
+- a parent learning log and subject error books.
 
 ## Scope
 
