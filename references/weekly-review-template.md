@@ -25,6 +25,9 @@ Generate this review once per week or when a parent, caregiver, or teacher expli
 - Checking:
 - Switching and submitting:
 - Prompt level:
+- A–E checking patterns, when relevant:
+- Independent correction after feedback:
+- Brief transfer check:
 
 ## Well-being and participation
 

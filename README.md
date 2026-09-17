@@ -7,7 +7,13 @@ The skill separates two rhythms:
 - daily academic support that follows current schoolwork;
 - a weekly development review that proposes no more than one or two functional targets.
 
-It uses answer keys only after the learner attempts a question and treats clinical assessment and medical care as professional responsibilities.
+Within daily academic support, it uses three modes:
+
+- **Independent Mode:** the learner completes a reasonable batch without unnecessary prompting;
+- **Checking Mode:** WorkBuddy reviews completed work, classifies issues, and skips explanations for correct responses;
+- **Teaching Mode:** WorkBuddy teaches only after current evidence identifies a real barrier.
+
+It can review clear images of completed handwritten work, distinguishes reasoning from expression, uses answer keys only after the learner attempts a question, and treats clinical assessment and medical care as professional responsibilities.
 
 ## Privacy-first design
 
