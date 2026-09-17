@@ -15,6 +15,8 @@ Within daily academic support, it uses three modes:
 
 It can review clear images of completed handwritten work, distinguishes reasoning from expression, uses answer keys only after the learner attempts a question, and treats clinical assessment and medical care as professional responsibilities.
 
+Academic uploads default to the learner-facing conversation, even when a parent uploads them. Student Mode presents one next step in the learner's primary learning language. Detailed classifications and parent observations are written to a separate private Markdown report under `parent-reports/`; that directory is excluded from Git.
+
 ## Privacy-first design
 
 This public repository contains no student records, medical reports, school reports, textbooks, answer books, names, dates of birth, school names, or local file paths.

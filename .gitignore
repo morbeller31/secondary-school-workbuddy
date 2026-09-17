@@ -3,6 +3,7 @@ private/
 profiles/
 student-data/
 knowledge/
+parent-reports/
 
 # Documents and course materials
 *.pdf
