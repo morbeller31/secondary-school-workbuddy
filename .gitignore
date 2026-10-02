@@ -38,3 +38,6 @@ secrets*
 .DS_Store
 .idea/
 .vscode/
+
+# Private unit maps
+learning-maps/

@@ -64,3 +64,7 @@ This project provides educational support instructions. It does not diagnose, tr
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Sol v1.3.1
+
+Sol is the release nickname and does not select an AI model. This small update adds subject-appropriate visuals, source-checked images and video guidance, private unit knowledge maps, and brief open-response retrieval checks. Read `references/visual-learning.md` when choosing an explanation. Keep completed unit maps under private `learning-maps/`, outside public Git.
